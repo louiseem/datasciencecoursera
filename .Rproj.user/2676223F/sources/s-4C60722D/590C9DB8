@@ -1,7 +1,7 @@
 {
     "id": "590C9DB8",
-    "path": "C:/Users/maryl/Desktop/assignment/HelloWorld.Rmd",
-    "project_path": "HelloWorld.Rmd",
+    "path": "C:/Users/maryl/Desktop/HelloWorld.Rmd",
+    "project_path": null,
     "type": "r_markdown",
     "hash": "113491526",
     "contents": "",
@@ -11,11 +11,11 @@
     "relative_order": 2,
     "properties": {},
     "folds": "",
-    "lastKnownWriteTime": 1596461349,
+    "lastKnownWriteTime": 1596461860,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1596461349,
+    "last_content_update": 1596461860886,
     "read_only": false,
     "read_only_alternatives": []
 }
